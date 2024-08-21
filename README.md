@@ -3,11 +3,11 @@
 <h3 align="center">Software Engineer, who loves crafting robust software solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.openart.ai/uploads/image_vvKLY2XE_1703834071281_raw.jpg">
 
-- 🔭 I’m currently working on **Quranic Search Engine**
+- 🔭 I’m currently working on **Quranic Search Engine** as side project.
 
-- 🌱 I’m currently learning **django & react.**
+- 🌱 I’m a software engineer at **NETSOL Technologies Inc**
 
-- 👯 I’m looking to collaborate on **django project**
+- 👯 I’m looking to collaborate on **Python projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mosafdarr](https://github.com/mosafdarr)
 
