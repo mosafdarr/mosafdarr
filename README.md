@@ -1,7 +1,5 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*mB6YLIGqIk1hTzU6Fb12zQ.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muhammad Safdar</h1>
 <h3 align="center">Software Engineer, who loves crafting robust software solutions.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.openart.ai/uploads/image_vvKLY2XE_1703834071281_raw.jpg">
 
 - 🔭 I’m currently working on **Quranic Search Engine** as side project.
 
