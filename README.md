@@ -37,7 +37,6 @@ class SoftwareEngineer:
         
     def specialties(self):
         return ["Cloud-Native Backends", "Data Pipelines", "AI-Driven Systems"]
-````
 
 * 🔭 Currently building a **Quranic Search Engine** with ontology-based retrieval + LLMs
 * 🌱 Developing scalable **RAG systems** and **microservices** on AWS
