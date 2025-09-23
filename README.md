@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   
 # 👋 Hello, I'm Muhammad Safdar
@@ -135,4 +134,3 @@ class SoftwareEngineer:
 ![Profile Views](https://komarev.com/ghpvc/?username=mosafdarr&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
-```
