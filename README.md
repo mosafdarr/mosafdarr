@@ -92,22 +92,6 @@ class SoftwareEngineer:
 - 💰 **Secured $5M+ annual transactions** with payment system integration
 - ⚡ **Cut infrastructure costs by 11%** through performance optimization
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosafdarr&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mosafdarr&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mosafdarr&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🏆 Certifications
 
 - 🐍 **Python** - Google
