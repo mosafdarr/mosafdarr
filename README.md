@@ -23,7 +23,7 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Muhammad Safdar"
         self.role = "Software Engineer"
-        self.experience = "4+ years"
+        self.experience = "10+ years"
         self.location = "Pakistan"
         self.current_focus = ["RAG Systems", "LLM Integration", "Cloud Architecture"]
         
